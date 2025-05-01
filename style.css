@@ -24,6 +24,7 @@ button{
 }
 span{
     font-size: 35px;
+    text-shadow: 4px -3px 8px black, 5px 6PX 8px blue, -6px 3px 5px darkblue;
 }
 .footer{
     padding: 15px;
@@ -60,3 +61,4 @@ img{
     width: 2000px;
     height: 150px;
 }
+
